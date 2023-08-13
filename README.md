@@ -36,7 +36,7 @@ To deploy and interact with the Lottery smart contract, you need the following:
 ### Deployment
 
 1. Clone this repository to your local machine.
-2. Open the Solidity contract file (`Lottery.sol`) in your preferred development environment.
+2. Open the Solidity contract file (`contarctdeploy.so`) in your preferred development environment.
 3. Deploy the contract using your chosen development environment, providing the necessary Ether for deployment.
 4. Once deployed, note the contract's address for future interactions.
 
