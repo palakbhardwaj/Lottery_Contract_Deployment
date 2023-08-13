@@ -1,5 +1,5 @@
 # Lottery_Contract_Deployment
-# Ethereum Lottery Smart Contract
+
 
 This project contains a simple Ethereum smart contract for a lottery game. Participants can join the lottery by sending a specific amount of Ether, and the manager can trigger the selection of a winner. The winner receives the entire contract balance.
 
