@@ -22,6 +22,7 @@ Key features of the contract:
 - The winner receives the entire balance held by the contract.
 - Randomness generation is based on `block.difficulty`, `block.timestamp`, and the number of participants.
 
+
 ## Getting Started
 
 ### Prerequisites
