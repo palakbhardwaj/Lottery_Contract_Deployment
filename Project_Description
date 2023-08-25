@@ -29,4 +29,4 @@ The provided Solidity smart contract is for a simple lottery game on the Ethereu
    - The winner is transferred the entire balance of the contract.
    - Finally, the `players` array is reset to an empty array, clearing out the participants for the next round.
 
-This smart contract represents a basic lottery system where participants can join by sending a specific amount of Ether and the manager can trigger the selection of a winner, transferring the entire contract balance to that winner. It's important to note that this contract is quite simplified and lacks certain features that would be necessary for a production-ready lottery, such as security measures, fairness guarantees, and randomness verification.
+This smart contract represents a basic lottery system where participants can join by sending a specific amount of  Ether and the manager can trigger the selection of a winner, transferring the entire contract balance to that winner. It's important to note that this contract is quite simplified and lacks certain features that would be necessary for a production-ready lottery, such as security measures, fairness guarantees, and randomness verification.
